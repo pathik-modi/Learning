@@ -10,3 +10,9 @@
   - Assembly is a container of related namespaces - DLL or EXE
   - Application is made up of one or more Assembly
 
+# .Net Setup
+ - .Net is tricky to setup on mac with visual studio code.
+ - Downloaded a bunch of extensions including C#, C# dev env, .Net 8 SDK Arm64
+ - to setup a .Net project make a folder with the "Namespace" you want for the project.
+ - open the folder on terminal and add the below code for using a console app template
+ command line:  dotnet new console --framework net8.0 --use-program-main
