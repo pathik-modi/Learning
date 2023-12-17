@@ -16,3 +16,8 @@
  - to setup a .Net project make a folder with the "Namespace" you want for the project.
  - open the folder on terminal and add the below code for using a console app template
  command line:  dotnet new console --framework net8.0 --use-program-main
+
+ # Explicit conversion for c#
+ - if you have a string s = "1"; and want to convert that to an integer (int) then you ahve to convert it with the explicit conversion method
+ - for example: int i = Convert.ToInt32(s); or you can use 
+ int i = int.Parse(s)

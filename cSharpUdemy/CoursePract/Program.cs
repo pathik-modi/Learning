@@ -4,6 +4,16 @@ class Program
 {
     static void Main(string[] args)
     {
-        System.Console.WriteLine("{0} {1}", int.MinValue, int.MaxValue);
+      try
+      {
+     var number = "1234";
+     byte b = Convert.ToByte(number);
+     System.Console.WriteLine(b);   
+      }
+      catch (System.Exception)
+      {
+        System.Console.WriteLine("The number couldn t be converted to a byte");
+      }
+     
     }
 }
