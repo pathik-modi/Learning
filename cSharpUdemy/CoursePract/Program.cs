@@ -1,19 +1,23 @@
-﻿namespace CoursePract;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using CoursePract.Math
 
-class Program
+namespace CoursePract
 {
-    static void Main(string[] args)
+    
+    class Program
     {
-      try
+      static void Main(string[] args)
       {
-    var str = "true";
-     bool b = Convert.ToBoolean(str);
-     System.Console.WriteLine(b);   
+        var john = new Person();
+        john.FirstName = "Pathik";
+        john.LastName = "Modi";
+        john.Introduce();
+
+        Calculator calculator = new Calculator()
+
       }
-      catch (System.Exception)
-      {
-        System.Console.WriteLine("The number couldn t be converted to a byte");
-      }
-     
     }
 }
