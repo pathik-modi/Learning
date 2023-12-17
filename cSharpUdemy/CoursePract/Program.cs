@@ -6,8 +6,8 @@ class Program
     {
       try
       {
-     var number = "1234";
-     byte b = Convert.ToByte(number);
+    var str = "true";
+     bool b = Convert.ToBoolean(str);
      System.Console.WriteLine(b);   
       }
       catch (System.Exception)
