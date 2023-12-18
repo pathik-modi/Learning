@@ -19,6 +19,10 @@ namespace ArrayPract;
         System.Console.WriteLine((int)method);
         var methodId = 3;
         System.Console.WriteLine((ShippingMethod)methodId);
+
+        var methodName = "Express"
+        var shippingItem = (ShippingMethod) Enum.Parse(typeof (ShippingMethod), methodName)
+        
       }
   }
 
