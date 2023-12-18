@@ -1,0 +1,15 @@
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayPract/obj/Debug/net8.0/ArrayPract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayPract/obj/Debug/net8.0/ArrayPract.AssemblyInfoInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayPract/obj/Debug/net8.0/ArrayPract.AssemblyInfo.cs
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayPract/obj/Debug/net8.0/ArrayPract.csproj.CoreCompileInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayPract/obj/Debug/net8.0/ArrayPract.sourcelink.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayPract/bin/Debug/net8.0/ArrayPract
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayPract/bin/Debug/net8.0/ArrayPract.deps.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayPract/bin/Debug/net8.0/ArrayPract.runtimeconfig.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayPract/bin/Debug/net8.0/ArrayPract.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayPract/bin/Debug/net8.0/ArrayPract.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayPract/obj/Debug/net8.0/ArrayPract.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayPract/obj/Debug/net8.0/refint/ArrayPract.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayPract/obj/Debug/net8.0/ArrayPract.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayPract/obj/Debug/net8.0/ArrayPract.genruntimeconfig.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayPract/obj/Debug/net8.0/ref/ArrayPract.dll
