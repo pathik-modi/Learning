@@ -1,0 +1,15 @@
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalStatements/bin/Debug/net8.0/ConditionalStatements
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalStatements/bin/Debug/net8.0/ConditionalStatements.deps.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalStatements/bin/Debug/net8.0/ConditionalStatements.runtimeconfig.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalStatements/bin/Debug/net8.0/ConditionalStatements.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalStatements/bin/Debug/net8.0/ConditionalStatements.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalStatements/obj/Debug/net8.0/ConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalStatements/obj/Debug/net8.0/ConditionalStatements.AssemblyInfoInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalStatements/obj/Debug/net8.0/ConditionalStatements.AssemblyInfo.cs
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalStatements/obj/Debug/net8.0/ConditionalStatements.csproj.CoreCompileInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalStatements/obj/Debug/net8.0/ConditionalStatements.sourcelink.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalStatements/obj/Debug/net8.0/ConditionalStatements.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalStatements/obj/Debug/net8.0/refint/ConditionalStatements.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalStatements/obj/Debug/net8.0/ConditionalStatements.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalStatements/obj/Debug/net8.0/ConditionalStatements.genruntimeconfig.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalStatements/obj/Debug/net8.0/ref/ConditionalStatements.dll
