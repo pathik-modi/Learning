@@ -1,0 +1,15 @@
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalExercise/obj/Debug/net8.0/ConditionalExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalExercise/obj/Debug/net8.0/ConditionalExercise.AssemblyInfoInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalExercise/obj/Debug/net8.0/ConditionalExercise.AssemblyInfo.cs
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalExercise/obj/Debug/net8.0/ConditionalExercise.csproj.CoreCompileInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalExercise/obj/Debug/net8.0/ConditionalExercise.sourcelink.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalExercise/bin/Debug/net8.0/ConditionalExercise
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalExercise/bin/Debug/net8.0/ConditionalExercise.deps.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalExercise/bin/Debug/net8.0/ConditionalExercise.runtimeconfig.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalExercise/bin/Debug/net8.0/ConditionalExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalExercise/bin/Debug/net8.0/ConditionalExercise.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalExercise/obj/Debug/net8.0/ConditionalExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalExercise/obj/Debug/net8.0/refint/ConditionalExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalExercise/obj/Debug/net8.0/ConditionalExercise.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalExercise/obj/Debug/net8.0/ConditionalExercise.genruntimeconfig.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ConditionalExercise/obj/Debug/net8.0/ref/ConditionalExercise.dll
