@@ -29,5 +29,24 @@ class Program
         int height = Convert.ToInt32(Console.ReadLine());
 
         System.Console.WriteLine((width > height) ? $"Result: Image is landscape.\n" : $"Result: Image is portrait.\n");
+
+        // Exc 4: speed limit challellenge
+        System.Console.WriteLine("3. Here we will work out the speed limit challenge\nEnter speed limit (km/hr):");
+        int speedLimit = Convert.ToInt32(Console.ReadLine());
+        System.Console.WriteLine("Enter speed of the car (km/hr):");
+        int carSpeed = Convert.ToInt32(Console.ReadLine());
+
+        if (carSpeed <= speedLimit) {
+          System.Console.WriteLine("Ok");
+        }
+        else if (carSpeed - speedLimit > 12) {
+          System.Console.WriteLine($"You were overspeeding by {carSpeed - speedLimit} km/hr\nLicense Suspended");
+        }
+        else if (carSpeed - speedLimit > 5) {
+          System.Console.WriteLine($"You were overspeeding by {carSpeed - speedLimit} km/hr\nDemerit Points: 2");
+        }
+        else if (carSpeed - speedLimit > 0) {
+          System.Console.WriteLine($"You were overspeeding by {carSpeed - speedLimit} km/hr\nDemerit Points: 1");
+        }
     }
 }
