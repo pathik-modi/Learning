@@ -1,0 +1,15 @@
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ControlFlowExercise/obj/Debug/net8.0/ControlFlowExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ControlFlowExercise/obj/Debug/net8.0/ControlFlowExercise.AssemblyInfoInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ControlFlowExercise/obj/Debug/net8.0/ControlFlowExercise.AssemblyInfo.cs
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ControlFlowExercise/obj/Debug/net8.0/ControlFlowExercise.csproj.CoreCompileInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ControlFlowExercise/obj/Debug/net8.0/ControlFlowExercise.sourcelink.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ControlFlowExercise/bin/Debug/net8.0/ControlFlowExercise
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ControlFlowExercise/bin/Debug/net8.0/ControlFlowExercise.deps.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ControlFlowExercise/bin/Debug/net8.0/ControlFlowExercise.runtimeconfig.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ControlFlowExercise/bin/Debug/net8.0/ControlFlowExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ControlFlowExercise/bin/Debug/net8.0/ControlFlowExercise.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ControlFlowExercise/obj/Debug/net8.0/ControlFlowExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ControlFlowExercise/obj/Debug/net8.0/refint/ControlFlowExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ControlFlowExercise/obj/Debug/net8.0/ControlFlowExercise.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ControlFlowExercise/obj/Debug/net8.0/ControlFlowExercise.genruntimeconfig.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ControlFlowExercise/obj/Debug/net8.0/ref/ControlFlowExercise.dll

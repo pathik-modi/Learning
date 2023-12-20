@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ControlFlowExercise/1.0.0": {
+        "runtime": {
+          "ControlFlowExercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControlFlowExercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
