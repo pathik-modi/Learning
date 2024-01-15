@@ -1,0 +1,15 @@
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ListPract/bin/Debug/net8.0/ListPract
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ListPract/bin/Debug/net8.0/ListPract.deps.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ListPract/bin/Debug/net8.0/ListPract.runtimeconfig.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ListPract/bin/Debug/net8.0/ListPract.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ListPract/bin/Debug/net8.0/ListPract.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ListPract/obj/Debug/net8.0/ListPract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ListPract/obj/Debug/net8.0/ListPract.AssemblyInfoInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ListPract/obj/Debug/net8.0/ListPract.AssemblyInfo.cs
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ListPract/obj/Debug/net8.0/ListPract.csproj.CoreCompileInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ListPract/obj/Debug/net8.0/ListPract.sourcelink.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ListPract/obj/Debug/net8.0/ListPract.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ListPract/obj/Debug/net8.0/refint/ListPract.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ListPract/obj/Debug/net8.0/ListPract.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ListPract/obj/Debug/net8.0/ListPract.genruntimeconfig.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ListPract/obj/Debug/net8.0/ref/ListPract.dll
