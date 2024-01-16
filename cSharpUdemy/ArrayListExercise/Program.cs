@@ -4,63 +4,63 @@ class Program
 {
     static void Main(string[] args)
     {
-        // // 1 - post counter
-        // var likesList = new List<string>();
+        // 1 - post counter
+        var likesList = new List<string>();
         
-        // System.Console.WriteLine("Enter a name:");
-        // var addName = Console.ReadLine();
-        //   // while loop to keep adding names until an empty "" string
-        // while (addName != "") {
-        //   likesList.Add(addName);
-        //   addName = Console.ReadLine();
+        System.Console.WriteLine("Enter a name:");
+        var addName = Console.ReadLine();
+          // while loop to keep adding names until an empty "" string
+        while (addName != "") {
+          likesList.Add(addName);
+          addName = Console.ReadLine();
 
-        //   if (addName == "") {
-        //     if (likesList.Count == 1) {
-        //       System.Console.WriteLine($"{likesList[0]} likes your post");
-        //     }
-        //     if (likesList.Count == 2) {
-        //       System.Console.WriteLine($"{likesList[0]} & {likesList[1]} like your post");
-        //     }
-        //     if (likesList.Count > 2) {
-        //       System.Console.WriteLine($"{likesList[0]}, {likesList[1]} and {likesList.Count - 2} others liked your post");  
-        //     } 
-        //   }
-        //   }
-        // if (likesList.Count == 0) {
-        //   System.Console.WriteLine("No one liked your post");
-        // }
+          if (addName == "") {
+            if (likesList.Count == 1) {
+              System.Console.WriteLine($"{likesList[0]} likes your post");
+            }
+            if (likesList.Count == 2) {
+              System.Console.WriteLine($"{likesList[0]} & {likesList[1]} like your post");
+            }
+            if (likesList.Count > 2) {
+              System.Console.WriteLine($"{likesList[0]}, {likesList[1]} and {likesList.Count - 2} others liked your post");  
+            } 
+          }
+          }
+        if (likesList.Count == 0) {
+          System.Console.WriteLine("No one liked your post");
+        }
 
-        // // 2 - take user input for name and display reverse of that name
-        // System.Console.WriteLine("Enter your name below:");
-        // string user = Console.ReadLine();
-        // char[] userArray = new char[user.Length];
-        // for (var i = 0; i < user.Length; i++) {
-        //   userArray[i] = user[i];
-        // }
-        // Array.Reverse(userArray); // reversed the newly created array
-        // string newUserName = new string(userArray); // converting to string
-        // System.Console.WriteLine($"Reversed name is: {newUserName}");
+        // 2 - take user input for name and display reverse of that name
+        System.Console.WriteLine("Enter your name below:");
+        string user = Console.ReadLine();
+        char[] userArray = new char[user.Length];
+        for (var i = 0; i < user.Length; i++) {
+          userArray[i] = user[i];
+        }
+        Array.Reverse(userArray); // reversed the newly created array
+        string newUserName = new string(userArray); // converting to string
+        System.Console.WriteLine($"Reversed name is: {newUserName}");
 
-        // // 3 - enter 5 numbers. if numbers are same then display error. sort the numbers and display on console.
-        // int[] numbers = new int[5];
-        // System.Console.WriteLine("Enter 5 unique numbers below");
+        // 3 - enter 5 numbers. if numbers are same then display error. sort the numbers and display on console.
+        int[] numbers = new int[5];
+        System.Console.WriteLine("Enter 5 unique numbers below");
 
-        // for (var i = 0; i < numbers.Length; i++) {
-        //   int userInput = Convert.ToInt32(Console.ReadLine());
-        //   // looping through the numbers array and checking if any number matches the userInput
-        //   foreach (int item in numbers){
-        //     while (userInput == item) {
-        //       System.Console.WriteLine("Try again");
-        //       userInput = Convert.ToInt32(Console.ReadLine());  
-        //     }
-        //   }
-        //   numbers[i] = userInput; // adding the user input tot he array if unique
-        // }
-        // Array.Sort(numbers);
-        // System.Console.WriteLine("Sorted in ascending order below:");
-        // foreach (var item in numbers){
-        //   System.Console.WriteLine(item);  
-        // }
+        for (var i = 0; i < numbers.Length; i++) {
+          int userInput = Convert.ToInt32(Console.ReadLine());
+          // looping through the numbers array and checking if any number matches the userInput
+          foreach (int item in numbers){
+            while (userInput == item) {
+              System.Console.WriteLine("Try again");
+              userInput = Convert.ToInt32(Console.ReadLine());  
+            }
+          }
+          numbers[i] = userInput; // adding the user input tot he array if unique
+        }
+        Array.Sort(numbers);
+        System.Console.WriteLine("Sorted in ascending order below:");
+        foreach (var item in numbers){
+          System.Console.WriteLine(item);  
+        }
 
         // 4 - list of numbers by user input - only display unique numbers
         var numbersList = new List<int>();
@@ -81,5 +81,31 @@ class Program
           System.Console.WriteLine(item2);
         }
 
+        // 5 - user input of min 5 numbers seperated by , then return 3 smallest numbers
+        // user input of 5 numbers
+        System.Console.WriteLine("Enter min 5 numbers seperated by a ','");
+        var userInput3 = Console.ReadLine();
+        
+        // if empty then ask user to try again
+        while (userInput3 == "") {
+          System.Console.WriteLine("Try again");
+          userInput3 = Console.ReadLine();
+        }
+
+        // convert the string to an array of numbers
+        int[] inputArr = userInput3.Split(',').Select(int.Parse).ToArray();
+
+        // if less than 5 numbers then user can try again
+        while (inputArr.Length != 5) {
+          System.Console.WriteLine("Try again");
+          userInput3 = Console.ReadLine();
+          inputArr = userInput3.Split(',').Select(int.Parse).ToArray();
+        }
+
+        Array.Sort(inputArr);
+        System.Console.WriteLine("Below are the smallest numbers entered: ");
+        for (var i = 0; i < 3; i++) {
+          System.Console.WriteLine(inputArr[i]);
+        }
     }
 }

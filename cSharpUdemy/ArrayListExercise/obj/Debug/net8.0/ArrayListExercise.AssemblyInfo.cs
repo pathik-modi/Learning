@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArrayListExercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+016889883bc29ab0fbd339f29541980f6feb56e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dcfdf7d34eded8dd09d46b7fa3a98e0d0082b1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArrayListExercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArrayListExercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
