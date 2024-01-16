@@ -1,0 +1,15 @@
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayListExercise/obj/Debug/net8.0/ArrayListExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayListExercise/obj/Debug/net8.0/ArrayListExercise.AssemblyInfoInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayListExercise/obj/Debug/net8.0/ArrayListExercise.AssemblyInfo.cs
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayListExercise/obj/Debug/net8.0/ArrayListExercise.csproj.CoreCompileInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayListExercise/obj/Debug/net8.0/ArrayListExercise.sourcelink.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayListExercise/bin/Debug/net8.0/ArrayListExercise
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayListExercise/bin/Debug/net8.0/ArrayListExercise.deps.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayListExercise/bin/Debug/net8.0/ArrayListExercise.runtimeconfig.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayListExercise/bin/Debug/net8.0/ArrayListExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayListExercise/bin/Debug/net8.0/ArrayListExercise.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayListExercise/obj/Debug/net8.0/ArrayListExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayListExercise/obj/Debug/net8.0/refint/ArrayListExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayListExercise/obj/Debug/net8.0/ArrayListExercise.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayListExercise/obj/Debug/net8.0/ArrayListExercise.genruntimeconfig.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ArrayListExercise/obj/Debug/net8.0/ref/ArrayListExercise.dll
