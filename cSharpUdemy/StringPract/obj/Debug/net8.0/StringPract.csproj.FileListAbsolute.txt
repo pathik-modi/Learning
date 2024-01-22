@@ -1,0 +1,15 @@
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringPract/bin/Debug/net8.0/StringPract
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringPract/bin/Debug/net8.0/StringPract.deps.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringPract/bin/Debug/net8.0/StringPract.runtimeconfig.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringPract/bin/Debug/net8.0/StringPract.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringPract/bin/Debug/net8.0/StringPract.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringPract/obj/Debug/net8.0/StringPract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringPract/obj/Debug/net8.0/StringPract.AssemblyInfoInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringPract/obj/Debug/net8.0/StringPract.AssemblyInfo.cs
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringPract/obj/Debug/net8.0/StringPract.csproj.CoreCompileInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringPract/obj/Debug/net8.0/StringPract.sourcelink.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringPract/obj/Debug/net8.0/StringPract.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringPract/obj/Debug/net8.0/refint/StringPract.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringPract/obj/Debug/net8.0/StringPract.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringPract/obj/Debug/net8.0/StringPract.genruntimeconfig.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringPract/obj/Debug/net8.0/ref/StringPract.dll
