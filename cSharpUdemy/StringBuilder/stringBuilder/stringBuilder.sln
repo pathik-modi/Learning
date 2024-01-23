@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringBuilder", "stringBuilder\stringBuilder.csproj", "{03DB1A38-6FC3-44E6-B30D-E16EAB6DAC70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03DB1A38-6FC3-44E6-B30D-E16EAB6DAC70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03DB1A38-6FC3-44E6-B30D-E16EAB6DAC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03DB1A38-6FC3-44E6-B30D-E16EAB6DAC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03DB1A38-6FC3-44E6-B30D-E16EAB6DAC70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

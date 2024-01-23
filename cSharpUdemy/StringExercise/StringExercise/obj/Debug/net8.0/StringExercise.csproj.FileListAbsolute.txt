@@ -1,0 +1,15 @@
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringExercise/StringExercise/bin/Debug/net8.0/StringExercise
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringExercise/StringExercise/bin/Debug/net8.0/StringExercise.deps.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringExercise/StringExercise/bin/Debug/net8.0/StringExercise.runtimeconfig.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringExercise/StringExercise/bin/Debug/net8.0/StringExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringExercise/StringExercise/bin/Debug/net8.0/StringExercise.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringExercise/StringExercise/obj/Debug/net8.0/StringExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringExercise/StringExercise/obj/Debug/net8.0/StringExercise.AssemblyInfoInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringExercise/StringExercise/obj/Debug/net8.0/StringExercise.AssemblyInfo.cs
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringExercise/StringExercise/obj/Debug/net8.0/StringExercise.csproj.CoreCompileInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringExercise/StringExercise/obj/Debug/net8.0/StringExercise.sourcelink.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringExercise/StringExercise/obj/Debug/net8.0/StringExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringExercise/StringExercise/obj/Debug/net8.0/refint/StringExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringExercise/StringExercise/obj/Debug/net8.0/StringExercise.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringExercise/StringExercise/obj/Debug/net8.0/StringExercise.genruntimeconfig.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/StringExercise/StringExercise/obj/Debug/net8.0/ref/StringExercise.dll
