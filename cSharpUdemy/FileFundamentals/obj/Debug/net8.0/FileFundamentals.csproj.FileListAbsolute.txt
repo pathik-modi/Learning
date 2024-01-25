@@ -1,0 +1,15 @@
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/FileFundamentals/bin/Debug/net8.0/FileFundamentals
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/FileFundamentals/bin/Debug/net8.0/FileFundamentals.deps.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/FileFundamentals/bin/Debug/net8.0/FileFundamentals.runtimeconfig.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/FileFundamentals/bin/Debug/net8.0/FileFundamentals.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/FileFundamentals/bin/Debug/net8.0/FileFundamentals.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/FileFundamentals/obj/Debug/net8.0/FileFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/FileFundamentals/obj/Debug/net8.0/FileFundamentals.AssemblyInfoInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/FileFundamentals/obj/Debug/net8.0/FileFundamentals.AssemblyInfo.cs
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/FileFundamentals/obj/Debug/net8.0/FileFundamentals.csproj.CoreCompileInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/FileFundamentals/obj/Debug/net8.0/FileFundamentals.sourcelink.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/FileFundamentals/obj/Debug/net8.0/FileFundamentals.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/FileFundamentals/obj/Debug/net8.0/refint/FileFundamentals.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/FileFundamentals/obj/Debug/net8.0/FileFundamentals.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/FileFundamentals/obj/Debug/net8.0/FileFundamentals.genruntimeconfig.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/FileFundamentals/obj/Debug/net8.0/ref/FileFundamentals.dll
