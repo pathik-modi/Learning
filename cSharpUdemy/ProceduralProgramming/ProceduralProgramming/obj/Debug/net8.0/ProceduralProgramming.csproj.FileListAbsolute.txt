@@ -1,0 +1,15 @@
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ProceduralProgramming/ProceduralProgramming/bin/Debug/net8.0/ProceduralProgramming
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ProceduralProgramming/ProceduralProgramming/bin/Debug/net8.0/ProceduralProgramming.deps.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ProceduralProgramming/ProceduralProgramming/bin/Debug/net8.0/ProceduralProgramming.runtimeconfig.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ProceduralProgramming/ProceduralProgramming/bin/Debug/net8.0/ProceduralProgramming.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ProceduralProgramming/ProceduralProgramming/bin/Debug/net8.0/ProceduralProgramming.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ProceduralProgramming/ProceduralProgramming/obj/Debug/net8.0/ProceduralProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ProceduralProgramming/ProceduralProgramming/obj/Debug/net8.0/ProceduralProgramming.AssemblyInfoInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ProceduralProgramming/ProceduralProgramming/obj/Debug/net8.0/ProceduralProgramming.AssemblyInfo.cs
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ProceduralProgramming/ProceduralProgramming/obj/Debug/net8.0/ProceduralProgramming.csproj.CoreCompileInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ProceduralProgramming/ProceduralProgramming/obj/Debug/net8.0/ProceduralProgramming.sourcelink.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ProceduralProgramming/ProceduralProgramming/obj/Debug/net8.0/ProceduralProgramming.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ProceduralProgramming/ProceduralProgramming/obj/Debug/net8.0/refint/ProceduralProgramming.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ProceduralProgramming/ProceduralProgramming/obj/Debug/net8.0/ProceduralProgramming.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ProceduralProgramming/ProceduralProgramming/obj/Debug/net8.0/ProceduralProgramming.genruntimeconfig.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ProceduralProgramming/ProceduralProgramming/obj/Debug/net8.0/ref/ProceduralProgramming.dll

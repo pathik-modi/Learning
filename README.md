@@ -46,8 +46,8 @@
     var numbers = new List<int>() {1, 2, 3, 4, 5};
   - methods for the list - Add(), AddRange(), Remove(), RemoveAll(), IndexOf(), Contains(), Count.
 
-# String
-  - ToUpper(), ToLower(), 
+# Procedural Programming
+    - 
 
 # Creating a new project
 create a new folder and add the below in terminal: 
