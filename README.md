@@ -63,3 +63,9 @@ cw - Console.WriteLine()
 
 # C# Intermediate Course
 
+## Classes
+- Made up of data (represented by fields) and Behaviour (represented by method or functions)
+- Objects are instances of a class
+- Constructors
+  - assigns variables at class initiation
+  - 

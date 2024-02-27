@@ -1,0 +1,15 @@
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ClassPract/bin/Debug/net8.0/ClassPract
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ClassPract/bin/Debug/net8.0/ClassPract.deps.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ClassPract/bin/Debug/net8.0/ClassPract.runtimeconfig.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ClassPract/bin/Debug/net8.0/ClassPract.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ClassPract/bin/Debug/net8.0/ClassPract.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ClassPract/obj/Debug/net8.0/ClassPract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ClassPract/obj/Debug/net8.0/ClassPract.AssemblyInfoInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ClassPract/obj/Debug/net8.0/ClassPract.AssemblyInfo.cs
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ClassPract/obj/Debug/net8.0/ClassPract.csproj.CoreCompileInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ClassPract/obj/Debug/net8.0/ClassPract.sourcelink.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ClassPract/obj/Debug/net8.0/ClassPract.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ClassPract/obj/Debug/net8.0/refint/ClassPract.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ClassPract/obj/Debug/net8.0/ClassPract.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ClassPract/obj/Debug/net8.0/ClassPract.genruntimeconfig.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/ClassPract/obj/Debug/net8.0/ref/ClassPract.dll
