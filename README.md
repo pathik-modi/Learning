@@ -73,3 +73,7 @@ cw - Console.WriteLine()
   - assign values to the object when they are intialized
 - Method
   - signature of methods, method overloading, params method
+- 3 pillars of OOP
+  - encapsulation/Information hiding - think of a restaurant - made up of chef, waitor, server etc. each member has specific role and responsible for their function. chef, waitor, server are classes.
+  - Inheritance
+  - Polymorphism

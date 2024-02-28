@@ -1,0 +1,15 @@
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Properties/bin/Debug/net8.0/Properties
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Properties/bin/Debug/net8.0/Properties.deps.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Properties/bin/Debug/net8.0/Properties.runtimeconfig.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Properties/bin/Debug/net8.0/Properties.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Properties/bin/Debug/net8.0/Properties.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Properties/obj/Debug/net8.0/Properties.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Properties/obj/Debug/net8.0/Properties.AssemblyInfoInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Properties/obj/Debug/net8.0/Properties.AssemblyInfo.cs
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Properties/obj/Debug/net8.0/Properties.csproj.CoreCompileInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Properties/obj/Debug/net8.0/Properties.sourcelink.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Properties/obj/Debug/net8.0/Properties.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Properties/obj/Debug/net8.0/refint/Properties.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Properties/obj/Debug/net8.0/Properties.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Properties/obj/Debug/net8.0/Properties.genruntimeconfig.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Properties/obj/Debug/net8.0/ref/Properties.dll
