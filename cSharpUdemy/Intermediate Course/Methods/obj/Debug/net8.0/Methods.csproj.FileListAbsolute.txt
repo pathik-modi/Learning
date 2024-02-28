@@ -1,0 +1,15 @@
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Methods/bin/Debug/net8.0/Methods
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Methods/bin/Debug/net8.0/Methods.deps.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Methods/bin/Debug/net8.0/Methods.runtimeconfig.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Methods/bin/Debug/net8.0/Methods.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Methods/bin/Debug/net8.0/Methods.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Methods/obj/Debug/net8.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Methods/obj/Debug/net8.0/Methods.AssemblyInfoInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Methods/obj/Debug/net8.0/Methods.AssemblyInfo.cs
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Methods/obj/Debug/net8.0/Methods.csproj.CoreCompileInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Methods/obj/Debug/net8.0/Methods.sourcelink.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Methods/obj/Debug/net8.0/Methods.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Methods/obj/Debug/net8.0/refint/Methods.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Methods/obj/Debug/net8.0/Methods.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Methods/obj/Debug/net8.0/Methods.genruntimeconfig.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Methods/obj/Debug/net8.0/ref/Methods.dll

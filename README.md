@@ -68,4 +68,8 @@ cw - Console.WriteLine()
 - Objects are instances of a class
 - Constructors
   - assigns variables at class initiation
-  - 
+- Object initializers
+  - avoid multiple constructors when you have multiple parameters
+  - assign values to the object when they are intialized
+- Method
+  - signature of methods, method overloading, params method
