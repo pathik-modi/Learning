@@ -1,0 +1,15 @@
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StopwatchExercise/obj/Debug/net8.0/StopwatchExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StopwatchExercise/obj/Debug/net8.0/StopwatchExercise.AssemblyInfoInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StopwatchExercise/obj/Debug/net8.0/StopwatchExercise.AssemblyInfo.cs
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StopwatchExercise/obj/Debug/net8.0/StopwatchExercise.csproj.CoreCompileInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StopwatchExercise/obj/Debug/net8.0/StopwatchExercise.sourcelink.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StopwatchExercise/bin/Debug/net8.0/StopwatchExercise
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StopwatchExercise/bin/Debug/net8.0/StopwatchExercise.deps.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StopwatchExercise/bin/Debug/net8.0/StopwatchExercise.runtimeconfig.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StopwatchExercise/bin/Debug/net8.0/StopwatchExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StopwatchExercise/bin/Debug/net8.0/StopwatchExercise.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StopwatchExercise/obj/Debug/net8.0/StopwatchExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StopwatchExercise/obj/Debug/net8.0/refint/StopwatchExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StopwatchExercise/obj/Debug/net8.0/StopwatchExercise.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StopwatchExercise/obj/Debug/net8.0/StopwatchExercise.genruntimeconfig.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StopwatchExercise/obj/Debug/net8.0/ref/StopwatchExercise.dll
