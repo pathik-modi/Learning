@@ -1,0 +1,15 @@
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StackOverflowExercise/obj/Debug/net8.0/StackOverflowExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StackOverflowExercise/obj/Debug/net8.0/StackOverflowExercise.AssemblyInfoInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StackOverflowExercise/obj/Debug/net8.0/StackOverflowExercise.AssemblyInfo.cs
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StackOverflowExercise/obj/Debug/net8.0/StackOverflowExercise.csproj.CoreCompileInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StackOverflowExercise/obj/Debug/net8.0/StackOverflowExercise.sourcelink.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StackOverflowExercise/bin/Debug/net8.0/StackOverflowExercise
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StackOverflowExercise/bin/Debug/net8.0/StackOverflowExercise.deps.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StackOverflowExercise/bin/Debug/net8.0/StackOverflowExercise.runtimeconfig.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StackOverflowExercise/bin/Debug/net8.0/StackOverflowExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StackOverflowExercise/bin/Debug/net8.0/StackOverflowExercise.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StackOverflowExercise/obj/Debug/net8.0/StackOverflowExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StackOverflowExercise/obj/Debug/net8.0/refint/StackOverflowExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StackOverflowExercise/obj/Debug/net8.0/StackOverflowExercise.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StackOverflowExercise/obj/Debug/net8.0/StackOverflowExercise.genruntimeconfig.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/StackOverflowExercise/obj/Debug/net8.0/ref/StackOverflowExercise.dll
