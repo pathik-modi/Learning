@@ -75,5 +75,9 @@ cw - Console.WriteLine()
   - signature of methods, method overloading, params method
 - 3 pillars of OOP
   - encapsulation/Information hiding - think of a restaurant - made up of chef, waitor, server etc. each member has specific role and responsible for their function. chef, waitor, server are classes.
-  - Inheritance
+  - Inheritance and Composition
+    - Inheritance can be thought as (Is-a) - tight coupling
+    - Composition can be through as (Has-a) - flexible/loose coupling
   - Polymorphism
+  - Access modifiers
+    - 

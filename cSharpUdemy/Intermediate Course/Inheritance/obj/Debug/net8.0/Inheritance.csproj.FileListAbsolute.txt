@@ -1,0 +1,15 @@
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Inheritance/obj/Debug/net8.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfoInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfo.cs
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Inheritance/obj/Debug/net8.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Inheritance/obj/Debug/net8.0/Inheritance.sourcelink.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Inheritance/bin/Debug/net8.0/Inheritance
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Inheritance/bin/Debug/net8.0/Inheritance.deps.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Inheritance/bin/Debug/net8.0/Inheritance.runtimeconfig.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Inheritance/bin/Debug/net8.0/Inheritance.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Inheritance/bin/Debug/net8.0/Inheritance.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Inheritance/obj/Debug/net8.0/Inheritance.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Inheritance/obj/Debug/net8.0/refint/Inheritance.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Inheritance/obj/Debug/net8.0/Inheritance.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Inheritance/obj/Debug/net8.0/Inheritance.genruntimeconfig.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Inheritance/obj/Debug/net8.0/ref/Inheritance.dll
