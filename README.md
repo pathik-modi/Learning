@@ -80,4 +80,8 @@ cw - Console.WriteLine()
     - Composition can be through as (Has-a) - flexible/loose coupling
   - Polymorphism
   - Access modifiers
-    - 
+    - public - methods implemented with public can be accessible from anywhere
+    - private - these methods are only accessible in that class
+    - protected - these methods are only from the class and its derived classes
+    - internal - these classes are only accessible in the same domain/assembly/class library
+    - protected internal - accessible from the same assembly or any derived classes (not used very often)

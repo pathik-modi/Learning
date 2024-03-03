@@ -1,0 +1,15 @@
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Casting/bin/Debug/net8.0/Casting
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Casting/bin/Debug/net8.0/Casting.deps.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Casting/bin/Debug/net8.0/Casting.runtimeconfig.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Casting/bin/Debug/net8.0/Casting.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Casting/bin/Debug/net8.0/Casting.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Casting/obj/Debug/net8.0/Casting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Casting/obj/Debug/net8.0/Casting.AssemblyInfoInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Casting/obj/Debug/net8.0/Casting.AssemblyInfo.cs
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Casting/obj/Debug/net8.0/Casting.csproj.CoreCompileInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Casting/obj/Debug/net8.0/Casting.sourcelink.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Casting/obj/Debug/net8.0/Casting.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Casting/obj/Debug/net8.0/refint/Casting.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Casting/obj/Debug/net8.0/Casting.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Casting/obj/Debug/net8.0/Casting.genruntimeconfig.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/Casting/obj/Debug/net8.0/ref/Casting.dll
