@@ -1,0 +1,15 @@
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InheritanceExercise/obj/Debug/net8.0/InheritanceExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InheritanceExercise/obj/Debug/net8.0/InheritanceExercise.AssemblyInfoInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InheritanceExercise/obj/Debug/net8.0/InheritanceExercise.AssemblyInfo.cs
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InheritanceExercise/obj/Debug/net8.0/InheritanceExercise.csproj.CoreCompileInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InheritanceExercise/obj/Debug/net8.0/InheritanceExercise.sourcelink.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InheritanceExercise/bin/Debug/net8.0/InheritanceExercise
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InheritanceExercise/bin/Debug/net8.0/InheritanceExercise.deps.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InheritanceExercise/bin/Debug/net8.0/InheritanceExercise.runtimeconfig.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InheritanceExercise/bin/Debug/net8.0/InheritanceExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InheritanceExercise/bin/Debug/net8.0/InheritanceExercise.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InheritanceExercise/obj/Debug/net8.0/InheritanceExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InheritanceExercise/obj/Debug/net8.0/refint/InheritanceExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InheritanceExercise/obj/Debug/net8.0/InheritanceExercise.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InheritanceExercise/obj/Debug/net8.0/InheritanceExercise.genruntimeconfig.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InheritanceExercise/obj/Debug/net8.0/ref/InheritanceExercise.dll

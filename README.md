@@ -85,3 +85,7 @@ cw - Console.WriteLine()
     - protected - these methods are only from the class and its derived classes
     - internal - these classes are only accessible in the same domain/assembly/class library
     - protected internal - accessible from the same assembly or any derived classes (not used very often)
+  - Boxing and Unboxing
+    - Value types (string, int, bool) and Reference types(object, class, DbMigrator)
+    - these two have a performance penalty to create a new object
+  
