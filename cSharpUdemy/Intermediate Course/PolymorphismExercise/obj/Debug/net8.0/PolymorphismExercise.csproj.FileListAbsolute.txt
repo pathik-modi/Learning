@@ -1,0 +1,15 @@
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/PolymorphismExercise/obj/Debug/net8.0/PolymorphismExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/PolymorphismExercise/obj/Debug/net8.0/PolymorphismExercise.AssemblyInfoInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/PolymorphismExercise/obj/Debug/net8.0/PolymorphismExercise.AssemblyInfo.cs
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/PolymorphismExercise/obj/Debug/net8.0/PolymorphismExercise.csproj.CoreCompileInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/PolymorphismExercise/obj/Debug/net8.0/PolymorphismExercise.sourcelink.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/PolymorphismExercise/bin/Debug/net8.0/PolymorphismExercise
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/PolymorphismExercise/bin/Debug/net8.0/PolymorphismExercise.deps.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/PolymorphismExercise/bin/Debug/net8.0/PolymorphismExercise.runtimeconfig.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/PolymorphismExercise/bin/Debug/net8.0/PolymorphismExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/PolymorphismExercise/bin/Debug/net8.0/PolymorphismExercise.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/PolymorphismExercise/obj/Debug/net8.0/PolymorphismExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/PolymorphismExercise/obj/Debug/net8.0/refint/PolymorphismExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/PolymorphismExercise/obj/Debug/net8.0/PolymorphismExercise.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/PolymorphismExercise/obj/Debug/net8.0/PolymorphismExercise.genruntimeconfig.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/PolymorphismExercise/obj/Debug/net8.0/ref/PolymorphismExercise.dll

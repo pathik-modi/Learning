@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AbstractClassModifier/1.0.0": {
+        "runtime": {
+          "AbstractClassModifier.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractClassModifier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

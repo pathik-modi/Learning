@@ -88,4 +88,9 @@ cw - Console.WriteLine()
   - Boxing and Unboxing
     - Value types (string, int, bool) and Reference types(object, class, DbMigrator)
     - these two have a performance penalty to create a new object
-  
+  - Method overriding
+    - modifying the implementation of an inherited method
+    - can use virtual on the default implementation and override in the use class for custom implementation
+  - Abstract Classes & members
+    - abstract modifier - indicates that a class or member is missing implementation
+    - 

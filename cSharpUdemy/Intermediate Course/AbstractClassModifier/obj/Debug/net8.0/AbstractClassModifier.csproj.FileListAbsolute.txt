@@ -1,0 +1,15 @@
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/AbstractClassModifier/obj/Debug/net8.0/AbstractClassModifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/AbstractClassModifier/obj/Debug/net8.0/AbstractClassModifier.AssemblyInfoInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/AbstractClassModifier/obj/Debug/net8.0/AbstractClassModifier.AssemblyInfo.cs
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/AbstractClassModifier/obj/Debug/net8.0/AbstractClassModifier.csproj.CoreCompileInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/AbstractClassModifier/obj/Debug/net8.0/AbstractClassModifier.sourcelink.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/AbstractClassModifier/bin/Debug/net8.0/AbstractClassModifier
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/AbstractClassModifier/bin/Debug/net8.0/AbstractClassModifier.deps.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/AbstractClassModifier/bin/Debug/net8.0/AbstractClassModifier.runtimeconfig.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/AbstractClassModifier/bin/Debug/net8.0/AbstractClassModifier.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/AbstractClassModifier/bin/Debug/net8.0/AbstractClassModifier.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/AbstractClassModifier/obj/Debug/net8.0/AbstractClassModifier.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/AbstractClassModifier/obj/Debug/net8.0/refint/AbstractClassModifier.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/AbstractClassModifier/obj/Debug/net8.0/AbstractClassModifier.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/AbstractClassModifier/obj/Debug/net8.0/AbstractClassModifier.genruntimeconfig.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/AbstractClassModifier/obj/Debug/net8.0/ref/AbstractClassModifier.dll
