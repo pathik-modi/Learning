@@ -1,0 +1,15 @@
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfaceExercise/bin/Debug/net8.0/InterfaceExercise
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfaceExercise/bin/Debug/net8.0/InterfaceExercise.deps.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfaceExercise/bin/Debug/net8.0/InterfaceExercise.runtimeconfig.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfaceExercise/bin/Debug/net8.0/InterfaceExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfaceExercise/bin/Debug/net8.0/InterfaceExercise.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfaceExercise/obj/Debug/net8.0/InterfaceExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfaceExercise/obj/Debug/net8.0/InterfaceExercise.AssemblyInfoInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfaceExercise/obj/Debug/net8.0/InterfaceExercise.AssemblyInfo.cs
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfaceExercise/obj/Debug/net8.0/InterfaceExercise.csproj.CoreCompileInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfaceExercise/obj/Debug/net8.0/InterfaceExercise.sourcelink.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfaceExercise/obj/Debug/net8.0/InterfaceExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfaceExercise/obj/Debug/net8.0/refint/InterfaceExercise.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfaceExercise/obj/Debug/net8.0/InterfaceExercise.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfaceExercise/obj/Debug/net8.0/InterfaceExercise.genruntimeconfig.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfaceExercise/obj/Debug/net8.0/ref/InterfaceExercise.dll

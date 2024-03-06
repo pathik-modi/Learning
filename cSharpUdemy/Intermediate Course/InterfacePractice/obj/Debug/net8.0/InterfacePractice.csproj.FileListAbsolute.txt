@@ -1,0 +1,15 @@
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePractice/bin/Debug/net8.0/InterfacePractice
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePractice/bin/Debug/net8.0/InterfacePractice.deps.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePractice/bin/Debug/net8.0/InterfacePractice.runtimeconfig.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePractice/bin/Debug/net8.0/InterfacePractice.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePractice/bin/Debug/net8.0/InterfacePractice.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePractice/obj/Debug/net8.0/InterfacePractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePractice/obj/Debug/net8.0/InterfacePractice.AssemblyInfoInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePractice/obj/Debug/net8.0/InterfacePractice.AssemblyInfo.cs
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePractice/obj/Debug/net8.0/InterfacePractice.csproj.CoreCompileInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePractice/obj/Debug/net8.0/InterfacePractice.sourcelink.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePractice/obj/Debug/net8.0/InterfacePractice.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePractice/obj/Debug/net8.0/refint/InterfacePractice.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePractice/obj/Debug/net8.0/InterfacePractice.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePractice/obj/Debug/net8.0/InterfacePractice.genruntimeconfig.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePractice/obj/Debug/net8.0/ref/InterfacePractice.dll

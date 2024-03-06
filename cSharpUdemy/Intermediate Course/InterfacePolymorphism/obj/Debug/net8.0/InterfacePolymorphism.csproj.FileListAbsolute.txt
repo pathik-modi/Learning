@@ -1,0 +1,15 @@
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePolymorphism/obj/Debug/net8.0/InterfacePolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePolymorphism/obj/Debug/net8.0/InterfacePolymorphism.AssemblyInfoInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePolymorphism/obj/Debug/net8.0/InterfacePolymorphism.AssemblyInfo.cs
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePolymorphism/obj/Debug/net8.0/InterfacePolymorphism.csproj.CoreCompileInputs.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePolymorphism/obj/Debug/net8.0/InterfacePolymorphism.sourcelink.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePolymorphism/bin/Debug/net8.0/InterfacePolymorphism
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePolymorphism/bin/Debug/net8.0/InterfacePolymorphism.deps.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePolymorphism/bin/Debug/net8.0/InterfacePolymorphism.runtimeconfig.json
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePolymorphism/bin/Debug/net8.0/InterfacePolymorphism.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePolymorphism/bin/Debug/net8.0/InterfacePolymorphism.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePolymorphism/obj/Debug/net8.0/InterfacePolymorphism.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePolymorphism/obj/Debug/net8.0/refint/InterfacePolymorphism.dll
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePolymorphism/obj/Debug/net8.0/InterfacePolymorphism.pdb
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePolymorphism/obj/Debug/net8.0/InterfacePolymorphism.genruntimeconfig.cache
+/Users/pathikmodi/devAcademy/Learning/cSharpUdemy/Intermediate Course/InterfacePolymorphism/obj/Debug/net8.0/ref/InterfacePolymorphism.dll

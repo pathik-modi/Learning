@@ -93,4 +93,11 @@ cw - Console.WriteLine()
     - can use virtual on the default implementation and override in the use class for custom implementation
   - Abstract Classes & members
     - abstract modifier - indicates that a class or member is missing implementation
-    - 
+  - Interface
+    - similar to class but fundamentally different
+    - declare interface with I in the beginning "public interface ITaxCalculator"
+    - they are used to build loosely coupled applications
+    - A class cannot derive from an Inheritance it can implement an interface
+    - interface is a contract to say this is the methods included in classes that implement the Inheritance
+  - 
+
